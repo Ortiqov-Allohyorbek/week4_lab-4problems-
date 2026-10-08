@@ -1,0 +1,23 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/mac/CLionProjects/untitled -B /Users/mac/CLionProjects/untitled/cmake-build-debug
+CMake Error at CMakeLists.txt:6 (add_executable):
+  add_executable cannot create target "untitled" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory "/Users/mac/CLionProjects/untitled".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:7 (add_executable):
+  add_executable cannot create target "untitled" because another target with
+  the same name already exists.  The existing target is an executable created
+  in source directory "/Users/mac/CLionProjects/untitled".  See documentation
+  for policy CMP0002 for more details.
+
+
+CMake Error at CMakeLists.txt:8 (add_library):
+  add_library cannot create target "untitled" because another target with the
+  same name already exists.  The existing target is an executable created in
+  source directory "/Users/mac/CLionProjects/untitled".  See documentation
+  for policy CMP0002 for more details.
+
+
+-- Configuring incomplete, errors occurred!

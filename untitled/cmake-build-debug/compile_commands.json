@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/mac/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled.dir/library.cpp.o -c /Users/mac/CLionProjects/untitled/library.cpp",
+  "file": "/Users/mac/CLionProjects/untitled/library.cpp",
+  "output": "/Users/mac/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/library.cpp.o"
+},
+{
+  "directory": "/Users/mac/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled.dir/Week4.cpp.o -c /Users/mac/CLionProjects/untitled/Week4.cpp",
+  "file": "/Users/mac/CLionProjects/untitled/Week4.cpp",
+  "output": "/Users/mac/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/Week4.cpp.o"
+},
+{
+  "directory": "/Users/mac/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled.dir/problem2.cpp.o -c /Users/mac/CLionProjects/untitled/problem2.cpp",
+  "file": "/Users/mac/CLionProjects/untitled/problem2.cpp",
+  "output": "/Users/mac/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/problem2.cpp.o"
+},
+{
+  "directory": "/Users/mac/CLionProjects/untitled/cmake-build-debug",
+  "command": "/usr/bin/c++ -g -std=gnu++20 -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled.dir/problem3.cpp.o -c /Users/mac/CLionProjects/untitled/problem3.cpp",
+  "file": "/Users/mac/CLionProjects/untitled/problem3.cpp",
+  "output": "/Users/mac/CLionProjects/untitled/cmake-build-debug/CMakeFiles/untitled.dir/problem3.cpp.o"
+}
+]
